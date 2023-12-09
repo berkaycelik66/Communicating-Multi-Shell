@@ -1,0 +1,57 @@
+Process id: 37942
+Parent process id: 37935
+Start time: 2023-05-01 20:20:01
+
+Process id: 37943
+$ ls
+
+Process id: 37942
+$ exit
+Exit time: 2023-05-01 20:20:04
+
+
+Process id: 37942
+Parent process id: 37935
+Start time: 2023-05-01 20:20:01
+
+Process id: 37944
+$ ps
+
+Process id: 37941
+$ exit
+Exit time: 2023-05-01 20:20:07
+
+
+Process id: 37942
+Parent process id: 37935
+Start time: 2023-05-01 20:20:01
+
+Process id: 37946
+$ ./directory1/directory2/main
+
+Process id: 37940
+$ exit
+Exit time: 2023-05-01 20:20:24
+
+
+Process id: 37942
+Parent process id: 37935
+Start time: 2023-05-01 20:20:01
+
+Process id: 37947
+$ hsc
+
+Process id: 37939
+$ exit
+Exit time: 2023-05-01 20:20:32
+
+
+Process id: 37942
+Parent process id: 37935
+Start time: 2023-05-01 20:20:01
+
+Process id: 37938
+$ exit
+Exit time: 2023-05-01 20:20:35
+
+
